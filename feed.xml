@@ -5,7 +5,23 @@
     <link>https://github.com/shaunporwal/daily-digest</link>
     <description>Daily curated news on AI models, innovations, and global trends</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:08:09 +0000</lastBuildDate>
+
+    <item>
+      <title>Daily Digest - March 29, 2026</title>
+      <pubDate>2026-03-29T01:08:06.715222</pubDate>
+      <description><![CDATA[
+    <h2>🤖 AI & Models</h2>
+    <p>Latest LLM releases and innovations in agent frameworks</p>
+    
+    <h2>🧬 Science</h2>
+    <p>Breakthrough research and biotech developments</p>
+    
+    <h2>💻 Tech Trends</h2>
+    <p>Open source tools and developer innovations</p>
+    ]]></description>
+      <guid>2026-03-29T01:08:06.715222</guid>
+    </item>
 
   </channel>
 </rss>
