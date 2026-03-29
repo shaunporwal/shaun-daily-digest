@@ -5,7 +5,94 @@
     <link>https://github.com/shaunporwal/shaun-daily-digest</link>
     <description>High-signal curated digest from Hacker News, arXiv, chemistry, and biotech research</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:39:56 +0000</lastBuildDate>
+
+    <item>
+      <title>Daily Digest — March 29, 2026</title>
+      <pubDate>2026-03-29T01:39:56.024043</pubDate>
+      <description><![CDATA[
+<h2>Tech Community Discussions (Hacker News)</h2>
+<ul>
+
+<li>
+  <strong>OpenYak – An open-source Cowork that runs any model and owns your filesystem</strong><br>
+  <small>25 points, 6 comments</small><br>
+  <small><a href="https://github.com/openyak/desktop" target="_blank">Read on Hacker News</a></small>
+</li>
+
+<li>
+  <strong>Founder of GitLab battles cancer by founding companies</strong><br>
+  <small>843 points, 190 comments</small><br>
+  <small><a href="https://sytse.com/cancer/" target="_blank">Read on Hacker News</a></small>
+</li>
+
+<li>
+  <strong>CSS is DOOMed</strong><br>
+  <small>256 points, 57 comments</small><br>
+  <small><a href="https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/" target="_blank">Read on Hacker News</a></small>
+</li>
+
+<li>
+  <strong>AI overly affirms users asking for personal advice</strong><br>
+  <small>582 points, 444 comments</small><br>
+  <small><a href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research" target="_blank">Read on Hacker News</a></small>
+</li>
+
+<li>
+  <strong>The case for becoming a manager</strong><br>
+  <small>16 points, 3 comments</small><br>
+  <small><a href="https://newsletter.thelongcommit.com/p/the-case-for-becoming-a-manager" target="_blank">Read on Hacker News</a></small>
+</li>
+</ul>
+
+<h2>Latest AI/ML Research (arXiv)</h2>
+<ul>
+
+<li>
+  <strong>Vega: Learning to Drive with Natural Language Instructions</strong><br>
+  Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ...<br>
+  <small><a href="https://arxiv.org/abs/2603.25741v1" target="_blank">Read on arXiv</a></small>
+</li>
+
+<li>
+  <strong>Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving</strong><br>
+  Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake...<br>
+  <small><a href="https://arxiv.org/abs/2603.25740v1" target="_blank">Read on arXiv</a></small>
+</li>
+
+<li>
+  <strong>Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment</strong><br>
+  The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri...<br>
+  <small><a href="https://arxiv.org/abs/2603.25737v1" target="_blank">Read on arXiv</a></small>
+</li>
+
+<li>
+  <strong>PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference</strong><br>
+  Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long...<br>
+  <small><a href="https://arxiv.org/abs/2603.25730v1" target="_blank">Read on arXiv</a></small>
+</li>
+
+<li>
+  <strong>PixelSmile: Toward Fine-Grained Facial Expression Editing</strong><br>
+  Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations...<br>
+  <small><a href="https://arxiv.org/abs/2603.25728v1" target="_blank">Read on arXiv</a></small>
+</li>
+</ul>
+
+<h2>Chemistry Research (Nature Chemistry)</h2>
+<ul>
+</ul>
+
+<h2>Biology & Biotech (Nature Biotechnology)</h2>
+<ul>
+</ul>
+
+<hr>
+<p><small>High-signal digest from open sources • Sunday, March 29, 2026 at 01:39 AM EDT</small></p>
+<p><small>Sources: Hacker News • arXiv (AI/ML) • Nature Chemistry • Nature Biotechnology</small></p>
+]]></description>
+      <guid>2026-03-29T01:39:56.024043</guid>
+    </item>
 
     <item>
       <title>Daily Digest — March 29, 2026</title>
