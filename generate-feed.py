@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
-Generate RSS feed from daily digest entries
+Generate RSS feed from X feed entries with real tweet links
 """
 
 import json
-import os
 from datetime import datetime
 from pathlib import Path
 
-REPO_DIR = Path.home() / "Documents/GitHub/other/daily-digest"
+REPO_DIR = Path.home() / "Documents/GitHub/other/shaun-x-feed"
 ENTRIES_DIR = REPO_DIR / "entries"
 FEED_FILE = REPO_DIR / "feed.xml"
 
@@ -22,7 +21,7 @@ def generate_rss():
     
     # Load all entries
     items = []
-    for entry_file in sorted(entries_dir.glob("*.json"), reverse=True)[:30]:  # Last 30
+    for entry_file in sorted(entries_dir.glob("*.json"), reverse=True)[:30]:
         try:
             with open(entry_file) as f:
                 data = json.load(f)
@@ -34,9 +33,9 @@ def generate_rss():
     rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Daily Digest - AI/Tech/Science</title>
-    <link>https://github.com/shaunporwal/daily-digest</link>
-    <description>Daily curated news on AI models, innovations, and global trends</description>
+    <title>X Feed Digest - AI/Tech/Science</title>
+    <link>https://github.com/shaunporwal/shaun-x-feed</link>
+    <description>Real tweets curated from X about AI models, innovations, and global trends</description>
     <language>en-us</language>
     <lastBuildDate>{datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S +0000')}</lastBuildDate>
 """

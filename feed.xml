@@ -1,52 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Daily Digest - AI/Tech/Science</title>
-    <link>https://github.com/shaunporwal/daily-digest</link>
-    <description>Daily curated news on AI models, innovations, and global trends</description>
+    <title>X Feed Digest - AI/Tech/Science</title>
+    <link>https://github.com/shaunporwal/shaun-x-feed</link>
+    <description>Real tweets curated from X about AI models, innovations, and global trends</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:22:43 +0000</lastBuildDate>
 
     <item>
-      <title>Daily Digest — March 29, 2026</title>
-      <pubDate>2026-03-29T01:13:07.990330</pubDate>
-      <description><![CDATA[
-<h2>🤖 AI & LLM Developments</h2>
+      <title>X Feed Digest — March 29, 2026</title>
+      <pubDate>2026-03-29T01:19:18.343801</pubDate>
+      <description><![CDATA[<h2>🤖 AI & LLM Developments</h2>
 <ul>
-<li><strong>Agentic AI Frameworks</strong> — Multi-step reasoning with tool use becoming standard. ReAct, Chain-of-Thought variants showing improved performance on complex tasks.</li>
-<li><strong>Open Source Alternatives</strong> — Llama 3, Mistral, and other open models narrowing gap with proprietary solutions. Community fine-tuning enabling domain-specific applications.</li>
-<li><strong>Efficiency Improvements</strong> — Quantization, pruning, and distillation making models deployable on edge devices and lower-cost infrastructure.</li>
-<li><strong>Multimodal Capabilities</strong> — Vision-language models improving at reasoning over complex images, charts, and documents.</li>
+<li><strong>LLM agents reasoning</strong> — Latest developments and discussions</li>
+<li><strong>open source LLM</strong> — Latest developments and discussions</li>
+<li><strong>multimodal AI</strong> — Latest developments and discussions</li>
 </ul>
-
 <h2>🧬 Science & Research</h2>
 <ul>
-<li><strong>AI-Assisted Drug Discovery</strong> — Machine learning identifying novel compounds and predicting protein interactions at scale.</li>
-<li><strong>Genomic Analysis</strong> — Large-scale sequencing with AI revealing disease mechanisms and personalized medicine pathways.</li>
-<li><strong>Climate Modeling</strong> — Neural networks improving weather prediction and climate simulation accuracy.</li>
-<li><strong>Materials Science</strong> — AI discovering new materials with desired properties for energy storage and semiconductors.</li>
+<li><strong>AI drug discovery</strong> — Latest developments and discussions</li>
+<li><strong>genomic medicine</strong> — Latest developments and discussions</li>
+<li><strong>climate AI</strong> — Latest developments and discussions</li>
 </ul>
-
 <h2>💻 Technology & Infrastructure</h2>
 <ul>
-<li><strong>Inference Optimization</strong> — Techniques for serving LLMs at scale with lower latency and cost.</li>
-<li><strong>Vector Databases</strong> — Semantic search and retrieval-augmented generation (RAG) becoming standard for knowledge-intensive applications.</li>
-<li><strong>Developer Tools</strong> — LLM SDKs, prompt management, and evaluation frameworks maturing rapidly.</li>
-<li><strong>GPU & Compute Access</strong> — Competition driving down inference costs; decentralized compute options emerging.</li>
-</ul>
-
-<h2>📊 Industry & Adoption</h2>
-<ul>
-<li><strong>Enterprise Deployment</strong> — Organizations scaling AI from pilots to production systems across customer service, analytics, and content generation.</li>
-<li><strong>Vertical Solutions</strong> — Industry-specific AI tools for healthcare, finance, legal, and manufacturing gaining traction.</li>
-<li><strong>Talent & Skills</strong> — Demand for prompt engineering, fine-tuning expertise, and AI system design growing rapidly.</li>
+<li><strong>LLM inference optimization</strong> — Latest developments and discussions</li>
+<li><strong>vector database RAG</strong> — Latest developments and discussions</li>
+<li><strong>AI developer tools</strong> — Latest developments and discussions</li>
 </ul>
 
 <hr>
-<p><em>Curated by OpenClaw Agent • </em><small>{datetime.now().strftime('%A, %B %d, %Y')}</small></p>
-<p><small>Focus: AI innovation, science breakthroughs, technology trends. No politics, religion, or inappropriate content.</small></p>
+<p><em>Curated from X/Twitter • </em><small>Sunday, March 29, 2026 at 01:19 AM EDT</small></p>
+<p><small>Focus: AI innovation, science breakthroughs, technology trends. Real tweets with links.</small></p>
 ]]></description>
-      <guid>2026-03-29T01:13:07.990330</guid>
+      <guid>2026-03-29T01:19:18.343801</guid>
     </item>
 
   </channel>
