@@ -5,7 +5,7 @@
     <link>https://github.com/shaunporwal/shaun-x-feed</link>
     <description>Real tweets curated from X about AI models, innovations, and global trends</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:30:25 +0000</lastBuildDate>
 
     <item>
       <title>Daily Digest — March 29, 2026</title>
@@ -88,35 +88,6 @@
 <p><small>Sources: arXiv (latest ML/AI papers) • bioRxiv (biology preprints) • Hacker News (tech discussion)</small></p>
 ]]></description>
       <guid>2026-03-29T01:28:52.421791</guid>
-    </item>
-
-    <item>
-      <title>X Feed Digest — March 29, 2026</title>
-      <pubDate>2026-03-29T01:19:18.343801</pubDate>
-      <description><![CDATA[<h2>🤖 AI & LLM Developments</h2>
-<ul>
-<li><strong>LLM agents reasoning</strong> — Latest developments and discussions</li>
-<li><strong>open source LLM</strong> — Latest developments and discussions</li>
-<li><strong>multimodal AI</strong> — Latest developments and discussions</li>
-</ul>
-<h2>🧬 Science & Research</h2>
-<ul>
-<li><strong>AI drug discovery</strong> — Latest developments and discussions</li>
-<li><strong>genomic medicine</strong> — Latest developments and discussions</li>
-<li><strong>climate AI</strong> — Latest developments and discussions</li>
-</ul>
-<h2>💻 Technology & Infrastructure</h2>
-<ul>
-<li><strong>LLM inference optimization</strong> — Latest developments and discussions</li>
-<li><strong>vector database RAG</strong> — Latest developments and discussions</li>
-<li><strong>AI developer tools</strong> — Latest developments and discussions</li>
-</ul>
-
-<hr>
-<p><em>Curated from X/Twitter • </em><small>Sunday, March 29, 2026 at 01:19 AM EDT</small></p>
-<p><small>Focus: AI innovation, science breakthroughs, technology trends. Real tweets with links.</small></p>
-]]></description>
-      <guid>2026-03-29T01:19:18.343801</guid>
     </item>
 
   </channel>
